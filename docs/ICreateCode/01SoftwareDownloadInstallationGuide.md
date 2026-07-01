@@ -11,53 +11,45 @@ ICreateCode supports both **macOS** and **Windows**.
 Please download the software via this link.[ ICreateCode](https://drive.google.com/drive/folders/1BelSOfzXOhKQjtSsvhnTnV4FC-a3zJ6A)
 
 ## Installation
-Locate the downloaded installer package, then double-click it.
+1. After clicking the link above to open the page, select and download the appropriate installation package based on your device model.
 
-<!-- 这是一张图片，ocr 内容为： -->
 ![](img/S11.png)
 
-<!-- 这是一张图片，ocr 内容为： -->
+2. After downloading the installation package to your local computer, extract it and double-click the file with the “.exe” extension.
+
 ![](img/S1.png)
 
+3. When the installation window appears, click "I Agree" to accept the license agreement.
 
+![](img/S2.png)
 
-When the installation window appears, click "I Agree" to accept the license agreement.
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](img/S2.png?x-oss-process=image%2Fformat%2Cwebp)
-
-<font style="color:rgb(23, 26, 29);">By default, select “Install for me only”, then click Next.</font>
+4. <font style="color:rgb(23, 26, 29);">By default, select “Install for me only”, then click Next.</font>
 
 <font style="color:rgb(23, 26, 29);">Note: You will be prompted to choose whether to install the software for the current user only or for all users on the computer. The difference is as follows:</font>
 
-    1. This option installs the software for the current user account only. After installation, only this user can access and use the software.
-    2. This option installs the software for all user accounts on the computer. Any user on this device will be able to run the software.
+    ① This option installs the software for the current user account only. After installation, only this user can access and use the software.
+    ② This option installs the software for all user accounts on the computer. Any user on this device will be able to run the software.
     
  ![](img/S9.png)
 
-Choose installation path: It is recommended to install to Disk C. If C drive space is insufficient, click Browse to choose another drive.
+5. Choose installation path: It is recommended to install to Disk C. If C drive space is insufficient, click Browse to choose another drive.
 
 Click Install and wait for the process to complete.
 
-<!-- 这是一张图片，ocr 内容为： -->
-![](img/S3.png?x-oss-process=image%2Fformat%2Cwebp)
+![](img/S3.png)
 
 Just wait for the installation to be complete.
 
-<!-- 这是一张图片，ocr 内容为： -->
 ![](img/S4.png)
 
-Click mouse to complete, and then the network access permission will pop up. **Be sure to select Allow.**
+6. Click mouse to complete, and then the network access permission will pop up. **Be sure to select Allow.**
 
-<!-- 这是一张图片，ocr 内容为： -->
 ![](img/S5.png)
 
-<!-- 这是一张图片，ocr 内容为： -->
 ![](img/S6.png)
 
-The software is installed.
+7. The software is installed.
 
-<!-- 这是一张图片，ocr 内容为： -->
 ![](img/S7.png)
 
 
