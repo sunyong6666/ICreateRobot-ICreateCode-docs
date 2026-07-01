@@ -8,19 +8,20 @@ ICreateCode supports both **macOS** and **Windows**.
 **Note:** For Windows, a **64-bit** system is required, Windows 10 or later.
 
 ## Download
-Download the software from the official[ ICreateRobot ](https://www.icrobot.com/www/cn/index.html#/file/index?type2=ICRobot)website.
+Please download the software via this link.[ ICreateCode](https://drive.google.com/drive/folders/1BelSOfzXOhKQjtSsvhnTnV4FC-a3zJ6A)
 
 ## Installation
 Locate the downloaded installer package, then double-click it.
 
-
+<!-- 这是一张图片，ocr 内容为： -->
+![](img/S11.png)
 
 <!-- 这是一张图片，ocr 内容为： -->
 ![](img/S1.png)
 
 
 
-When the installation window appears, click “我同意”（I Agree) to accept the license agreement.
+When the installation window appears, click "I Agree" to accept the license agreement.
 
 <!-- 这是一张图片，ocr 内容为： -->
 ![](img/S2.png?x-oss-process=image%2Fformat%2Cwebp)
@@ -29,9 +30,10 @@ When the installation window appears, click “我同意”（I Agree) to accept
 
 <font style="color:rgb(23, 26, 29);">Note: You will be prompted to choose whether to install the software for the current user only or for all users on the computer. The difference is as follows:</font>
 
-    1. <font style="color:rgb(23, 26, 29);">This option installs the software for the current user account only. After installation, only this user can access and use the software.</font>
-    2. <font style="color:rgb(23, 26, 29);">This option installs the software for all user accounts on the computer. Any user on this device will be able to run the software.</font><!-- 这是一张图片，ocr 内容为： -->
-![](img/S9.png)
+    1. This option installs the software for the current user account only. After installation, only this user can access and use the software.
+    2. This option installs the software for all user accounts on the computer. Any user on this device will be able to run the software.
+    
+ ![](img/S9.png)
 
 Choose installation path: It is recommended to install to Disk C. If C drive space is insufficient, click Browse to choose another drive.
 
