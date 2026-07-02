@@ -17,7 +17,7 @@ __**Note:**_ Ensure that Bluetooth is enabled on the computer system.  _
 | ![](IMG/B7.png) | ![](IMG/B8.gif) |
 | Step 3. No manual operation is required; the ICRobot will announce the following:<br/>"Switching to Bluetooth mode," and then it will wait for the switch.<br/>Or "Already in Bluetooth mode, no switch needed," in which case no waiting is necessary, and you can use it immediately. | Step 4. Open the programming software on the computer, click "Select Device", and choose ICRobot. |
 | ![](IMG/B9.gif) | ![](IMG/B10.png) |
-| Step 5. Select the Bluetooth connection method, click "Bluetooth", and then click "Start Scanning". From the refreshed Bluetooth list, <br/>select the device name to connect.<br/>The device's Bluetooth name is the last 4 digits of the MAC address. | Once the connection is successful, the programming software will display the connection interface, and the robot will announce <br/>"Bluetooth connection successful." |
+| Step 5. Select the Bluetooth connection method,  and then click "Start Scanning". From the refreshed Bluetooth list, <br/>select the device name to connect.<br/>The device's Bluetooth name is the last 4 digits of the MAC address. | Once the connection is successful, the programming software will display the connection interface, and the robot will announce <br/>"Bluetooth connection successful." |
 
 
 __
