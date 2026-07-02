@@ -3,9 +3,9 @@
 ![](IMG/B1.png)
 
 ## Preparation
-| ![](IMG/S1.png) | ![](IMG/B3.png) | ![](IMG/S3.png) |
+| ![](IMG/B2.png) | ![](IMG/B3.png) | ![](IMG/S3.png) |
 | :---: | :---: | :---: |
-| A computer (Windows/macOS) | ICreateCode | ICRobot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| A computer <br/>(Windows/macOS) | ICreateCode | ICRobot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
 
 ## Steps
