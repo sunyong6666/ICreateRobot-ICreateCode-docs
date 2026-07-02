@@ -10,7 +10,7 @@ In STA Mode, the ICRobot connects to the computer’s mobile hotspot for wireles
 ## Preparation
 | ![](IMG/M2.png) | ![](IMG/M3.png) | ![](IMG/M4.png) |
 | :---: | :---: | :---: |
-| A computer<br/> (Windows/macOS) | ICreateCode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ICRobot |
+| A computer<br/> (Windows/macOS) | ICreateCode | ICRobot |
 
 
 ## Steps
