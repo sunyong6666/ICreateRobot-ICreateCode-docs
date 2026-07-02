@@ -3,7 +3,7 @@
 ![](IMG/B1.png)
 
 ## Preparation
-| ![]IMG/B2.png) | ![](IMG/B3.png) | ![](IMG/B4.png) |
+| ![](IMG/B2.png) | ![](IMG/B3.png) | ![](IMG/B4.png) |
 | :---: | :---: | :---: |
 | A computer (Windows/macOS) | ICreateCode | ICRobot |
 
