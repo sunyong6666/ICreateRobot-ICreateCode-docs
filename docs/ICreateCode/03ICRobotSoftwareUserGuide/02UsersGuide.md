@@ -26,7 +26,7 @@ Using AP mode, ICRobot connects to the PC and moves forward at full power for 1 
 | :---: | :---: |
 | Step 1. Power on ICRobot and switch to AP mode via the SET menu. | Step 2. Open the programming software ICreate Code. <br/>Check the ICRobot’s Wi-Fi name (SSID) in your system WLAN/Wi-Fi list in advance,<br/> then select AP as the connection method in the software to connect. |
 | ![](IMG/U10.png) | ![](IMG/U11.png) |
-| Step 3. After the connection is successful, program the target content.   | Step 4. Click the green flag to run the program and observe the results. |
+| Step 3. After the connection is successful, program the target content.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   | Step 4. Click the green flag to run the program and observe the results. |
 
 
 #### Demonstration
@@ -44,7 +44,7 @@ The programming content can be downloaded to the ICRobot and executed on the rob
 ### Steps
 | ![](IMG/U13.gif) | ![](IMG/U14.png) |
 | :---: | :---: |
-| Step 1. After both the ICRobot and the programming software are powered on, switch the <br/>software mode to Interactive Mode. Then select the device and the connection method. <br/>(For connection options and detailed steps, refer to [Serial Port Connection Mode](), <br/>[Bluetooth Connection Mode](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/03BluetoothModeBTMode.html), [Wireless Access Point (AP) Mode](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/01AccessPointModeAPMode.html), and [Client (STA) Mode](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/02StationModeSTA.html).)   | Step 2. Once the selection is successful, the Block Commands panel will automatically load the ICRobot-related extension blocks. |
+| Step 1. After both the ICRobot and the programming software are powered on, switch the <br/>software mode to Interactive Mode. Then select the device and the connection method. <br/>(For connection options and detailed steps, refer to [Serial Port Connection Mode](), <br/>[Bluetooth Connection Mode](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/03BluetoothModeBTMode.html), [Wireless Access Point (AP) Mode](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/01AccessPointModeAPMode.html), and [Client (STA) Mode](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/02StationModeSTA.html).)   | Step 2. Once the selection is successful, the Block Commands panel will automatically load<br/> the ICRobot-related extension blocks. |
 | ![](IMG/U15.gif) | ![](IMG/U16.gif) |
 | Step 3. Drag the command blocks into the Coding Area to create the program. While dragging <br/>the blocks, the Python Coding Area will display the corresponding Python code for each block. | Step 4. After completing the programming, click the Download option in the Hardware <br/> Control Panel to download the programmed content to the ICRobot’s built-in program <br/> storage (with 5 available slots: 1–5). |
 
