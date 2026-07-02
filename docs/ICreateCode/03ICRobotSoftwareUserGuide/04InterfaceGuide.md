@@ -22,6 +22,7 @@
 | ⑥ | Program | Rename the current project. |
 | ⑦ | Mode | Switch between Online Interactive Mode and Download Mode. |
 | ⑧ | Settings | Configure language and theme color settings. |
+| ⑨ | Open AI Mode | The AI conversation-based feature for generating building block code is currently in the testing phase and has not yet been officially released for use. |
 
 
 ## Editing Interface
