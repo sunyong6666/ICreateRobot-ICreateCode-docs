@@ -16,7 +16,7 @@
 | :---: | :---: | --- |
 | ① | Select Device | Select the type of device you want to use, including ICBricks, ICRobot, and micro:bit. |
 | ② | Connect | Select the connection method, including Serial Port, Bluetooth, Wi-Fi, and QR Code. |
-| ③ | Firmware Burning | Select and flash different firmware versions, including the Standard Firmware and the Xiaozhi Firmware versions. |
+| ③ | Firmware Burning | Select and flash different firmware versions|
 | ④ | File | The drop-down menu provides three ways to open files: New Project, Open from Computer, and Save As.<br/>+ Project files saved in Interactive Mode can only be uploaded and used in Interactive Mode.<br/>+ Project files saved in Download Mode can only be uploaded and used in Download Mode. |
 | ⑤ | Sample Program | Includes sample programs in SB3 and Python formats. After selecting any sample, the programming interface will automatically load the corresponding content. |
 | ⑥ | Program | Rename the current project. |
