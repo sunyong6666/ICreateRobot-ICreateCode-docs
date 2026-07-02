@@ -17,7 +17,7 @@ _Note: The minimum firmware version for the main controller is V3.3.5._
 #### **Operation Steps**:  
 | ![](IMG/U5.gif) | ![](IMG/U6.png) |
 | :---: | :---: |
-| Step 1: After turning on the ICBricks main controller and opening <br/>the programming software, select "Online Mode, then choose the device <br/>and Bluetooth connection method <br/>to establish the connection. | Step 2: Drag the commands into the programming area to start programming. |
+| Step 1: After turning on the ICBricks main controller and opening <br/>the programming software, select "Online Mode, then choose <br/>the device and Bluetooth connection method to establish the connection. | Step 2: Drag the commands into the programming area to start programming. |
 | ![](IMG/U7.png) | |
 | Step 3: After completing the programming, click the green flag <br/>to execute the program and check the execution results. | |
 
