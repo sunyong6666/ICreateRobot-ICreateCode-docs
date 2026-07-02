@@ -18,7 +18,7 @@ Using AP mode, ICRobot connects to the PC and moves forward at full power for 1 
 #### Preparation
 | ![](IMG/U5.png) | ![](IMG/U6.png) | ![](IMG/U7.png) |
 | :---: | :---: | :---: |
-| A computer (Windows/macOS) | ICreate Code | ICRobot |
+| A computer (Windows/macOS) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICreate Code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ICRobot |
 
 
 #### Steps
