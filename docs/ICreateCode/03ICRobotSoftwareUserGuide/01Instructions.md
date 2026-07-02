@@ -5,7 +5,7 @@ When programming the robot, the ICRobot communicates and interacts with the ICre
 ## Connection Methods
 The ICRobot can connect to the ICreateCode software in four ways: Serial Port Mode, Bluetooth Mode, Wireless Access Point (AP) Mode, and Client (STA) Mode.
 
-For details, refer to [Serial Port Connection Mode](), [Bluetooth Connection Mode](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/03BluetoothModeBTMode.html), [Wireless Access Point (AP) Mode](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/01AccessPointModeAPMode.html), and [Client (STA) Mode](https://icreaterobot-icrobot-docs.readthedocs.io/en/latest/docs/ICRobot/04OperationManual/01ConnectionMethod/02StationModeSTA.html).
+For details, refer to [Serial Port Connection Mode](https://icreaterobot-icreatecode-docs.readthedocs.io/en/latest/docs/ICreateCode/03ICRobotSoftwareUserGuide/03ConnectionMethod/01SerialConnection.html), [Bluetooth Connection Mode](https://icreaterobot-icreatecode-docs.readthedocs.io/en/latest/docs/ICreateCode/03ICRobotSoftwareUserGuide/03ConnectionMethod/02BluetoothMode.html), [Wireless Access Point (AP) Mode](https://icreaterobot-icreatecode-docs.readthedocs.io/en/latest/docs/ICreateCode/03ICRobotSoftwareUserGuide/03ConnectionMethod/03AccessPointMode.html), and [Client (STA) Mode](https://icreaterobot-icreatecode-docs.readthedocs.io/en/latest/docs/ICreateCode/03ICRobotSoftwareUserGuide/03ConnectionMethod/04StationMode.html).
 
 ## Programming Modes
 During programming, you can operate in either Online Mode or Download Mode.
