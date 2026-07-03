@@ -268,7 +268,7 @@ Example:
 <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/M49.png)
 
-#### Potentiometer ( )
+#### Potentiometer Module ( )
 <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/M50.png)
 
@@ -279,7 +279,7 @@ Example:
 <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/M51.png)
 
-#### Gray Level Sensor（ ）
+#### grayscale Sensor（ ）
 <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/M52.png)
 
@@ -293,6 +293,7 @@ Example:
 #### Photosensitive Sensor ( )
 <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/M54.png)
+
 Get the photosensitive sensor value
 
 Example:
@@ -336,6 +337,7 @@ Example:
 #### Soil Moisture Sensor ( )
  <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/M62.png)
+
 Get the soil moisture sensor value.
 
 Example:
@@ -387,7 +389,7 @@ Example:
 <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/M71.png)
 
-#### Detect Rocker（ ）
+#### detect Joystick（ ）
 <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/M72.png)
 
@@ -398,7 +400,7 @@ Example:
 <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/M73.png)
 
-#### Rocker ( ) Direction
+#### joystick ( ) Direction
 <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/M74.png)
 
