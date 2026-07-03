@@ -10,8 +10,7 @@ _**Note: Extensions can only be used in Interactive Mode.**_
 
 | ![](IMG/E1.png) | ![](IMG/E2.png) |
 | :---: | :---: |
-| Step 1: Open the software and make sure you are in ICRobot Mode. | Step 2: Click the “<!-- 这是一张图片，ocr 内容为： -->
-![](IMG/E3.png)” button at the lower-left corner of the screen. |
+| Step 1: Open the software and make sure you are in ICRobot Mode. | Step 2: Click the “![](IMG/E3.png)” button at the lower-left corner of the screen. |
 | ![](IMG/E4.png) | ![](IMG/E5.png) |
 | Step 3: In the extension window, select the block you wish to add. | Step 4: Once added successfully, the new blocks will appear in the Block Instruction Area. |
 
