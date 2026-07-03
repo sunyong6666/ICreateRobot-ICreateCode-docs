@@ -393,6 +393,10 @@ Example:
 <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/B69.png)
 
+### Clear the travel distance
+
+![](IMG/B110.png)
+
 ### Set line-following sensor to () mode
 <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/B70.png)
