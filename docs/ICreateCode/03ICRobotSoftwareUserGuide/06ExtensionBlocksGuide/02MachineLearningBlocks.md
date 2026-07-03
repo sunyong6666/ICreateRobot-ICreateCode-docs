@@ -49,7 +49,7 @@ Train two machine learning models and use programming logic to make the characte
 | :---: | :---: |
 | Step 1: Connect ICRobot to the programming software (refer to [AP](https://icreaterobot-icreatecode-docs.readthedocs.io/en/latest/docs/ICreateCode/03ICRobotSoftwareUserGuide/03ConnectionMethod/03AccessPointMode.html)/[STA](https://icreaterobot-icreatecode-docs.readthedocs.io/en/latest/docs/ICreateCode/03ICRobotSoftwareUserGuide/03ConnectionMethod/04StationMode.html) connection method). | Step 2: Add the Machine Learning Extension. |
 | ![](IMG/M10.gif) | ![](IMG/M11.gif) |
-| Step 3: Click "Start Training Model" to select the training type: image recognition, <br/>gesture recognition, or pose recognition. | Step 4: Choose to Create a New Project or Import an Existing Project. |
+| Step 3: Click "Start Training Model" to select the training type: image recognition, <br/>gesture recognition, or pose recognition. | Step 4: Choose to Create a New Project or Import an Existing Project. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | ![](IMG/M12.png) | ![](IMG/M13.png) |
 | Step 5: Click the camera icon under each category to enable the corresponding camera. | Step 6: Continuously capture training images using the camera. |
 | <!-- 这是一张图片，ocr 内容为： -->
