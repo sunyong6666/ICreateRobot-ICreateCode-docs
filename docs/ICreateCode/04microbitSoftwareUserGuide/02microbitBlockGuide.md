@@ -412,7 +412,7 @@ Example:
 ![](IMG/M75.png)
 
 ### Action
-#### Servo ( ) Angle ( )
+#### servo Motor ( ) Angle ( )
 <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/M76.png)
 
@@ -423,7 +423,7 @@ Example:
 <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/M77.png)
 
-#### Motor ( ) Angle ( )
+#### DC Motor ( ) Speed ( )
 <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/M78.png)
 
@@ -511,7 +511,7 @@ Example:
 <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/M93.png)
 
-#### Motor at ( ) Speed Rotate ( ) Degrees
+#### （）Motor at ( ) Speed Rotate ( ) Degrees
 <!-- 这是一张图片，ocr 内容为： -->
 ![](IMG/M94.png)
 
