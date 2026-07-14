@@ -306,7 +306,7 @@ Example:
 
 ### Robot's launcher at port ( ) shoots ( ) ball until done
 <!-- 这是一张图片，ocr 内容为： -->
-![](IMG/B54)
+![](IMG/B54.png)
 
 Launch and wait until finished before proceeding.
 
