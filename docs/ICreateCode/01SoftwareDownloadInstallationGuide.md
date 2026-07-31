@@ -3,7 +3,7 @@
 ICreateCode is a graphical programming software independently developed by ICreateRobot. It works with multiple products such as the ICRobot, ICBricks, and micro:bit, enabling interactive projects that combine hardware and software.
 
 ## System Requirements
-ICreateCode supports both **macOS** and **Windows**.
+ICreateCode supports **Windows**.
 
 **Note:** For Windows, a **64-bit** system is required, Windows 10 or later.
 
