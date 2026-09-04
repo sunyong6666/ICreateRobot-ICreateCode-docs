@@ -42,7 +42,9 @@ Check whether the recognized result matches the selected category.
 Return the confidence score for the specified category.
 
 ## Example
-Train two machine learning models and use programming logic to make the character respond differently based on which model is successfully recognized.
+Train two machine learning models and use programming logic to make the character respond differently based on which model is successfully recognized.<br/>
+*Note: If the trained model is referenced in the program, the trained model can be used directly when the project is saved locally and later reopened and imported into the programming software. Retraining is not required.*
+
 
 ## Operation Steps
 | ![](IMG/M8.gif) | ![](IMG/M9.gif) |
